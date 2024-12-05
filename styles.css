@@ -218,7 +218,7 @@
 
 @MEDIA(min-width: 768px){
 	body{
-	background-image: linear-gradient( rgb(0 0 0 /.75),rgb(0 0 0/.55)) ,url(imagenes2/fondo2.jpg);
+	background-image: linear-gradient( rgb(0 0 0 /.75),rgb(0 0 0/.55)) ,url(fondo2.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
