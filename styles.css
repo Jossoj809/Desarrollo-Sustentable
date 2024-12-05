@@ -1,6 +1,6 @@
 @MEDIA(max-width: 767px){
 	body{
-		background-image: linear-gradient( rgb(0 0 0 /.80),rgb(0 0 0/.70)) ,url(imagenes2/fondocel.jpg);
+		background-image: linear-gradient( rgb(0 0 0 /.80),rgb(0 0 0/.70)) ,url(fondocel.jpg);
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-attachment: fixed;
