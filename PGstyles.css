@@ -1,0 +1,77 @@
+
+
+
+@media(min-width:768px){
+
+	body{
+		background-image: linear-gradient( rgb(0 0 0 /.85),rgb(0 0 0/.55)) ,url(imagenes2/fondo3.webp);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		margin: 0;
+	}
+	.titulo{
+		color: white;
+		text-align: center;
+	}
+	.in1{
+		font-size: .5cm;
+		color: white;
+		text-align: center;
+	}
+
+	.cont1{
+		margin-top: 1cm;
+		margin-left: 2cm;
+		margin-right: 2cm;
+		margin-bottom: 1cm;
+		padding: .4cm;
+		border-radius: 15px;
+		background-color: snow;
+		font-size: .6cm;
+		opacity: .7;
+		text-align: justify;
+	}
+	.in2{
+		opacity: 1;
+	}
+
+	table{
+		font-size: .6cm;
+		border: 0.1cm solid #737070;
+		border-collapse: collapse;
+		margin-bottom: 2cm;
+		color: #F7E5E5;
+	}
+	td{
+	
+		border: 0.1cm solid #737070;
+	    padding: 0.4cm; 
+	    text-align: center;
+	   	width: 4.5cm;
+	}
+
+	.reg{
+		width: 2cm;
+		margin-left: 2cm;
+	}
+
+	footer{
+		text-align: center;
+		color: white;
+		text-shadow: 5px 8px 5px #00F4FF;
+		font-size: .5cm;
+	}
+}
+
+
+DatosB{
+	color: white;	
+}
+.D{
+	margin-left: 2cm;
+	margin-right: 1cm;
+	font-size: .6cm;
+	border-bottom: white .1cm solid;
+	color: white;
+}
